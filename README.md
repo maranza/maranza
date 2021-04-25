@@ -17,7 +17,6 @@ Here is a short summary about me:
 <p><a href="https://badges.pufler.dev" rel="nofollow"><img src="https://badges.pufler.dev/years/maranza" alt="Years Badge" data-canonical-src="https://badges.pufler.dev/years/maranza" style="max-width:100%;"></a>
 <a href="https://badges.pufler.dev" rel="nofollow"><img src="https://badges.pufler.dev/repos/maranza" alt="Repos Badge" data-canonical-src="https://badges.pufler.dev/repos/maranza" style="max-width:100%;"></a>
 <a href="https://badges.pufler.dev" rel="nofollow"><img src="https://badges.pufler.dev/visits/maranza/maranza" alt="Visits Badge" data-canonical-src="https://badges.pufler.dev/visits/maranza/maranza" style="max-width:100%;"></a>
-<a href="https://badges.pufler.dev" rel="nofollow"><img src="https://badges.pufler.dev/gists/maranza" alt="Repos Badge" data-canonical-src="https://badges.pufler.dev/gists/maranza" style="max-width:100%;"></a>
 <a href="https://www.twitter.com/further_right" rel="nofollow"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Ffurther_right" alt="Linkedin: thaianebraga" data-canonical-src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Ffurther_right" style="max-width:100%;"></a>
 <br>
 </p>
