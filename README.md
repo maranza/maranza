@@ -14,3 +14,5 @@ Here is a short summary about me:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can't develop on a windows environment.
 
+<img src="https://github-readme-stats.vercel.app/api?username=maranza&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+
