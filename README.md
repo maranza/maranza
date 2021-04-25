@@ -13,6 +13,15 @@ Here is a short summary about me:
 - 📫 How to reach me: @further_right on twitter
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can't develop on a windows environment.
-
+<br>
+<p><a href="https://badges.pufler.dev" rel="nofollow"><img src="https://badges.pufler.dev/years/maranza" alt="Years Badge" data-canonical-src="https://badges.pufler.dev/years/maranza" style="max-width:100%;"></a>
+<a href="https://badges.pufler.dev" rel="nofollow"><img src="https://badges.pufler.dev/repos/maranza" alt="Repos Badge" data-canonical-src="https://badges.pufler.dev/repos/maranza" style="max-width:100%;"></a>
+<a href="https://badges.pufler.dev" rel="nofollow"><img src="https://badges.pufler.dev/visits/maranza/maranza" alt="Visits Badge" data-canonical-src="https://badges.pufler.dev/visits/maranza/maranza" style="max-width:100%;"></a>
+<a href="https://badges.pufler.dev" rel="nofollow"><img src="https://badges.pufler.dev/gists/maranza" alt="Repos Badge" data-canonical-src="https://badges.pufler.dev/gists/maranza" style="max-width:100%;"></a>
+<a href="https://www.twitter.com/further_right" rel="nofollow"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Ffurther_right" alt="Linkedin: thaianebraga" data-canonical-src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Ffurther_right" style="max-width:100%;"></a>
+<br>
+</p>
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=maranza&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maranza&bg_color=151515&text_color=daf7dc" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=maranza&amp;layout=compact" style="max-width:100%;">
