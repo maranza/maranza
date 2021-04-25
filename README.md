@@ -3,7 +3,7 @@
 
 <!--**maranza/maranza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+Here is a short summary about me:
 
 - 🔭 I’m currently working on Maftown Online Media web system
 - 🌱 I’m currently learning DevOps [Docker, Kubernetes, CI/CD], Flutter, React, AWS.
