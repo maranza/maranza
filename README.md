@@ -5,8 +5,8 @@
 
 Here is a short summary about me:
 
-- 🔭 I’m currently working on Maftown Online Media web system Programmed in Python using Django Framework
-- 🌱 I’m currently learning DevOps [Docker, Kubernetes, CI/CD], Flutter, React, AWS.
+- 🔭 I’m currently building Maftown Online Media web system in Python using Django Framework
+- 🌱 I’m currently learning DevOps-[Docker, Kubernetes, CI/CD], Flutter, React, AWS.
 - 👯 I’m looking to collaborate on Java and Python project, and any project using tech stack i am familiar with
 - 🤔 I’m looking for help with getting up to speed with building large scale microservices
 - 💬 Ask me about anything
