@@ -10,8 +10,7 @@ Here is a short summary about me:
 - 👯 I’m looking to collaborate on Java and Python project, and any project using tech stack i am familiar with
 - 🤔 I’m looking for help with getting up to speed with building large scale microservices
 - 💬 Ask me about anything
-- 📫 How to reach me: coding0007@gmail.com
-- 😄 Pronouns: He/Him
+- 📫 How to reach me: admin@gmail.com
 - ⚡ Fun fact: I think Apple products eco-system is the best 😫.
 <br>
 <p><a href="https://badges.pufler.dev" rel="nofollow"><img src="https://badges.pufler.dev/years/maranza" alt="Years Badge" data-canonical-src="https://badges.pufler.dev/years/maranza" style="max-width:100%;"></a>
