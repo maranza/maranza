@@ -6,7 +6,7 @@
 Here is a short summary about me:
 
 - 🔭 I’m currently building Maftown Online Media web system in Python using Django Framework
-- 🌱 I’m currently learning DevOps-[Docker, Kubernetes, CI/CD, GitHub Action, Jenkins etc], Golang and AWS.
+- 🌱 I’m currently advancing on DevOps-[Docker, Kubernetes, CI/CD, GitHub Actions, Jenkins etc], Golang and AWS.
 - 👯 I’m looking to collaborate on Java and Python project, and any project using tech stack i am familiar with
 - 🤔 I’m looking for help with deep dive Kubernetes topics in a practical world
 - 💬 Ask me about anything
